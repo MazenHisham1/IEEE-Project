@@ -81,7 +81,7 @@ fig_trend = px.line(
 st.plotly_chart(fig_trend, use_container_width=True)
 
 # ------------------------------
-# Extra Insight: Latest Numbers
+# Latest Numbers
 # ------------------------------
 st.subheader(f"📌 Latest Numbers in {country}")
 latest = trend_df.iloc[-1]
