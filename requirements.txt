@@ -1,4 +1,15 @@
-streamlit==1.36.0
-pandas==2.2.2
-numpy==1.26.4
-plotly==5.22.0
+# Core dependencies
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.17.0
+plotly-resampler>=0.9.0
+
+# Data handling
+pyarrow>=14.0.0  # For Parquet support
+
+# Optional but recommended
+openpyxl>=3.1.0  # For Excel file support
+xlrd>=2.0.0      # For legacy Excel files
