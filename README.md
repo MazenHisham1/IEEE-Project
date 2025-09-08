@@ -6,7 +6,7 @@ A Streamlit-based interactive dashboard for COVID-19 time-series data, offering 
 
 ##  Live Demo
 
-Try the live version here: [Dashboard Live Demo](https://covid-19-deploy.streamlit.app/) :contentReference[oaicite:1]{index=1}
+Try the live version here: [Dashboard Live Demo](https://covid-19-deploy.streamlit.app/) and [Dashboard Live Demo](https://covid-dashboard-production-12a2.up.railway.app/) :contentReference[oaicite:1]{index=1}
 
 ---
 
